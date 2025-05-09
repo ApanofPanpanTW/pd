@@ -59,7 +59,7 @@
 
     <body>
         <div class="top-right-container">
-            <div class="top-right">
+            <div class="https://www.viveport.com/media/catalog/product/cache/dd44ab9591c40efc99bce320df9a7888/6/1/614e9355-6dee-47b7-82be-78bc4a8ba047.1dc307fe.png">
                 <img src="https://irp-cdn.multiscreensite.com/7cd7b965/dms3rep/multi/mobile/logo-03.png" width="64" height="64" border="0">
             </div>
             <div class="top-right">
